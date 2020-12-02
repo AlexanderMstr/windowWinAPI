@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\WindowMenu\WindowMenu\Debug\WindowMenu.vcxprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowMenu\WindowMenu\Debug\WindowMenu.MyForm.resources
+C:\Users\User\source\repos\WindowMenu\WindowMenu\Debug\WindowMenu.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowMenu\WindowMenu\Debug\WindowMenu.language.resources
+C:\Users\User\source\repos\WindowMenu\WindowMenu\Debug\WindowMenu.Game.resources
+C:\Users\User\source\repos\WindowMenu\WindowMenu\Debug\WindowMenu.inventory.resources
